@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivityTristeza">
+    <ImageView
+        android:id="@+id/imagenPortadaR"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:src="@drawable/tristeza"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:id="@+id/txtTituloPR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Poemas de Tristeza"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/teal_700"
+        />
+    <TextView
+        android:id="@+id/txtTituloSR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Estoy Negado"
+        android:layout_margin="10sp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginTop="30sp"
+        />
+
+    <ScrollView
+        android:id="@+id/ScrollView1R"
+        android:layout_width="match_parent"
+        android:layout_height="140sp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/txtContenidoR"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/txtEstoyNegado"
+                android:textIsSelectable="true"
+                android:layout_margin="10sp"
+                android:layout_marginTop="30sp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+    <TextView
+        android:id="@+id/txtTituloS2R"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Oscuro Canto"
+        android:layout_gravity="center"
+        android:layout_margin="10sp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginTop="30sp"
+        />
+
+    <ScrollView
+        android:id="@+id/ScrollView2R"
+        android:layout_width="match_parent"
+        android:layout_height="140sp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txtContenido2R"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/txtOscuroCanto"
+                android:textIsSelectable="true"
+                android:layout_margin="10sp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+    <TextView
+        android:id="@+id/txtTituloS3R"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Destierro"
+        android:layout_margin="10sp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginTop="30sp"
+        />
+    <ScrollView
+        android:id="@+id/ScrollView3R"
+        android:layout_width="match_parent"
+        android:layout_height="140sp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/txtContenido3R"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/txtDestierro"
+                android:textIsSelectable="true"
+                android:layout_margin="10sp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">poemas</string>
+    <string name="txtPatrios">
+    Patria mia,\n
+    Imbuida en flores,\n
+    Y te canto con el alma\n
+    empapada de rocio.\n\n
+
+        Patria mia,\n
+    Exuberantemente verde y floral,\n
+    Cada mañana, cuando el sol aparece en el horizonte\n
+    Se arrodilla mi espíritu de milpa primaveral\n
+    Y entonces Dios escucha\n
+    La más ferviente oración\n\n
+
+    Patria mia,\n
+    Cada vez que pronuncio\n
+    Tu sacrosanto nombre\n
+    En mi corazón se derrama\n
+    La poesía más dulce y excelsa.\n\n
+
+    Patria mia,\n
+    Te beso, con un beso,\n
+    De mi alma de marimba enamorada.\n
+    </string>
+    <string name="txtPatrios2">
+        15 de Septiembre, hoy conmemoramos\n
+        magna Independencia de mi Guatemala\n
+        con cohetes y bombas todos celebramos\n
+        habernos librado de los lazos de España\n\n
+
+        Con gran colorido se ven en las calles\n
+        alegres desfiles, hay gozo y hay fiesta,\n
+        y en cada escuela y en muchos hogares,\n
+        ondea orgullosa la hermosa bandera.\n\n
+
+        Cantos, poesias, balles, oratoria\n
+        todo dedicado a mi bella patria\n
+        porque celebramos una gran victoria:\n
+        Es la independencia de mi Guatemala!
+    </string>
+    <string name="txtPatrios3">
+        Es mi bella Guatemala\n
+        tierra de hermosas mujeres\n
+        cerros, cumbres y montañas\n
+        y de hombres muy valientes.\n\n
+
+        Bendita tierra de Dios\n
+        es Guatemala querida \n
+        que recibe con amor\n
+        a todo el que la visita.\n\n
+
+        Su cielo blanco y azul\n
+        el color de mi bandera\n
+        que ondea con plenitud\n
+        orgullosa de esta tierra.\n\n
+
+        Verdes sus bellas montañas\n
+        como el hermoso quetzal\n
+        que vuelta con libertad\n
+        en mi linda Guatemala.\n\n
+
+        Tierra hermosa sin igual\n
+        de majestuosos volcanes\n
+        lagos, rios, bellos mares,\n
+        es un paraiso ideal.\n\n
+
+        Es orgullo haber nacido\n
+        en esta tierra bendita\n
+        y con gran amor te brindo\n
+        mis versos patria querida.\n
+    </string>
+
+    <string name="txtCielo">
+        Cielo eres mi cielo,\n
+        del bello azul de terciopelo,\n
+        de hermosa luz,\n
+        del suave toque de un blues\n\n
+        Cielo eres mi cielo\n
+        El gran amor que tanto celo.\n\n
+        Cielo eres mi cielo\n
+        Noches de llanto,\n
+        noches de desvelo,\n
+        sfuro en silencio\n
+        por tu amor y por tu velo.\n\n
+        cielo eres mi cielo\n
+        El gran amor que tanto celo.\n\n
+        Cielo eres mi cielo\n
+        Tus besos calman\n
+        mis ansias y me\n
+        devuelven mis anhelos.\n\n
+        Cielo eres mi cielo.
+    </string>
+
+    <string name="txtQuiero">
+        Quiero vivir en ti,\n
+        quiero ser el amor que busca tu sueño,\n
+        quiero demostrate mis anhelos.\n
+        Quiero que siempre estes conmigo;\n
+        en el florilegio de mi inspiracion,\n
+        en mis letras de coleccion.\n\n
+        Quiero viajar en la nube de tus horas,\n
+        Amanecer y presenciar junto a ti la aurora\n
+        en lo azulado del cielo,\n
+        conoceere el amor verdadero.\n
+        Con mi corazon tremulo enamorado,\n
+        ire a la luz blanca de tu alma,\n
+        callado adentrare sonriendo.\n
+    </string>
+
+    <string name="txtSoloDire">
+        Solo dire\n
+        que vivo en una prision,\n
+        cuyo nombre es el tuyo,\n
+        cuyas puertas son tus ojos,\n
+        cuyos muros\n
+        no pueden traspasar\n
+        mis pensamientos e imaginacion,\n
+        cuya sombra no puedo abandonar\n
+        cuya carcelera cruel, indiferente,\n
+        y sorda a mis ruegos \n
+        eres tu.\n
+    </string>
+
+    <string name="txtEstoyNegado">
+        Hoy mi corazón está herido\n
+    sufre de constantes descontentos\n
+    de heridas repentinas que causa dolor.\n\n
+        Mi mente esta nublada y tan triste.\n
+apaciguada y pudriéndose en soledad,\n
+de la escusa y maltratos que me das.\n\n
+        Te he confesado lo que me duele\n
+y ahora lo usas para poderme dañar,\n
+mi percepción nota rechazo y cólera.\n\n
+        Ando en un valle de burla y lágrimas\n
+de acciones o técnicas que me alejas,\n
+de querido a despreciado y marginado.\n\n
+        Me muero, callado, angustiado y negado.\n
+    </string>
+
+    <string name="txtOscuroCanto">
+        Oscuro canto\n
+    que brota\n
+    de la honda esperanza\n
+    rota,\n
+    y del retorno\n
+    al círculo cerrado.\n
+    Peso escondido\n
+    como hijo sin nacer\n
+    en el vientre profundo,\n
+    apretado nudo\n
+    en el lugar del corazón.\n\n
+        Ay, tampoco suena\n
+    ni sube\n
+    el nocturno canto\n
+    hacia el cielo lejano.\n
+    Es una voz sorda\n
+    que se ahoga en la garganta,\n
+    es un grito callado.\n
+    Y si sube,\n
+    no es un vuelo\n
+    en la noche muda,\n
+    es sólo una nube de humo\n
+    que se pierde en la sombra.\n
+    </string>
+    <string name="txtDestierro">
+        Mi vida\n
+    es un destierro sin retorno.\n
+    No tuvo casa\n
+    mi errante infancia perdida,\n
+    no tiene tierra\n
+    mi destierro.\n
+    Mi vida navegó\n
+    en nave de nostalgia.\n
+    Viví a orillas del mar\n
+    mirando el horizonte:\n
+    hacia mi casa ignorada\n
+    pensaba zarpar un día,\n
+    y el presentido viaje\n
+    me dejó en otro puerto de partida.\n
+    ¿Es el amor, acaso,\n
+    mi última rada?\n
+    Oh brazos que me hicieron prisionera,\n
+    sin darme abrigo…\n
+    También del cruel abrazo\n
+    quise escaparme.\n
+    Oh huyentes brazos,\n
+    que en vano buscaron mis manos…\n
+    Incesante fuga\n
+    y anhelo incesante\n
+    el amor no es puerto seguro.\n
+    Ya no hay tierra prometida\n
+    para mi esperanza.\n
+    </string>
+</resources>

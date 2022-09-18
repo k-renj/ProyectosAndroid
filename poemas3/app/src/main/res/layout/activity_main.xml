@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@android:color/holo_green_light"
+    tools:ignore="NewApi">
+
+   <ImageView
+       android:id="@+id/imagenPortada"
+       android:layout_width="300sp"
+       android:layout_height="250sp"
+       android:src="@drawable/bandera"
+       android:layout_centerHorizontal="true"
+       />
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="250sp"
+       android:text="Poemas de Guatemala"
+       android:textStyle="bold"
+       android:textSize="30sp"
+       android:textColor="@color/black"
+       android:textAlignment="center"
+      />
+
+   <Button
+       android:id="@+id/btnPatrios"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+      android:layout_marginTop="350sp"
+      android:layout_centerHorizontal="true"
+       android:background="@color/cardview_shadow_end_color"
+      android:text="Poemas Patrios"
+      android:textSize="20sp"
+   />
+
+   <Button
+       android:id="@+id/btnRomanticos"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="400sp"
+       android:layout_centerHorizontal="true"
+       android:background="@color/cardview_shadow_end_color"
+       android:text="Poemas Romanticos"
+       android:textSize="20sp"
+       />
+
+   <Button
+       android:id="@+id/btnTristeza"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="450sp"
+       android:layout_centerHorizontal="true"
+       android:background="@color/cardview_shadow_end_color"
+       android:text="Poemas de Tristeza"
+       android:textSize="20sp"
+       />
+
+
+
+
+
+</RelativeLayout>
